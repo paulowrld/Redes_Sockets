@@ -20,7 +20,7 @@ class Program
         NetworkStream networkStream = client.GetStream();
 
         //Enviar dados ao servidor
-        string dataToSend = "Olá, Professor!";
+        string dataToSend = "Olá, Servidor!!";
         byte[] buffer = Encoding.ASCII.GetBytes(dataToSend);
         networkStream.Write(buffer, 0, buffer.Length);
         Console.WriteLine($"Dados enviados ao servidor: {dataToSend}");
