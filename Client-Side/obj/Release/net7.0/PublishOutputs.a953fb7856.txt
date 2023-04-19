@@ -1,0 +1,5 @@
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Cliente\bin\Release\net7.0\publish\Cliente.exe
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Cliente\bin\Release\net7.0\publish\Cliente.dll
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Cliente\bin\Release\net7.0\publish\Cliente.deps.json
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Cliente\bin\Release\net7.0\publish\Cliente.runtimeconfig.json
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Cliente\bin\Release\net7.0\publish\Cliente.pdb

@@ -1,0 +1,5 @@
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Servidor\bin\Release\net7.0\publish\Servidor.exe
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Servidor\bin\Release\net7.0\publish\Servidor.dll
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Servidor\bin\Release\net7.0\publish\Servidor.deps.json
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Servidor\bin\Release\net7.0\publish\Servidor.runtimeconfig.json
+C:\Users\Paulo\Desktop\SocketsTesteRedes\Servidor\bin\Release\net7.0\publish\Servidor.pdb
